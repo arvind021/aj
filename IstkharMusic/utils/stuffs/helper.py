@@ -15,7 +15,7 @@ class Helper(object):
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
 ➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/RUD_RA_65)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Prem_Assistant)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Thinking_mine)
 ─────────────────────────**
 '''
     
@@ -26,8 +26,8 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ʙᴏᴛѕ˼](https://t.me/+8WjqAqBihwkyNzk9)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ʙᴏᴛѕ˼](https://t.me/+8WjqAqBihwkyNzk9)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ʙᴏᴛѕ˼](https://t.me/+O700FgX298pmZTg9)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ʙᴏᴛѕ˼](https://t.me/+O700FgX298pmZTg9)
 ❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-Rudra](https://t.me/RUD_RA_65)
 ─────────────────────────**
 '''
@@ -44,7 +44,7 @@ class Helper(object):
 /setphoto : sᴇᴛ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 /rmphoto : ʀᴇᴍᴏᴠᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Prem_Assistant)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Thinking_mine)**
 '''
 
     HELP_MOD = '''
@@ -56,7 +56,7 @@ class Helper(object):
 /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ʙᴀɴɴᴇᴅ ᴍᴇᴍʙᴇʀs
 /unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Prem_Assistant)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Thinking_mine)**
 '''
     
     HELP_WEL = '''
@@ -65,7 +65,7 @@ class Helper(object):
 /welcome on : ᴇɴᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 /welcome off : ᴅɪsᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Prem_Assistant)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Thinking_mine)**
 '''
 
     HELP_VC = '''
@@ -74,7 +74,7 @@ class Helper(object):
 /vclogger on : ᴠᴄ ʟᴏɢɢᴇʀ ᴏɴ
 /vclogger off : ᴠᴄ ʟᴏɢɢᴇʀ ᴏғғ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Prem_Assistant)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Thinking_mine)**
 '''
 
     HELP_ADMIN = '''
@@ -84,7 +84,7 @@ class Helper(object):
 /demote : ᴅᴇᴍᴏᴛᴇ ᴜsᴇʀ ᴀɴ ᴀᴅᴍɪɴ
 /fullpromote : ᴘʀᴏᴍᴏᴛᴇ ᴜsᴇʀs ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Prem_Assistant)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Thinking_mine)**
 '''
 
 
@@ -97,5 +97,5 @@ class Helper(object):
 /unmute : ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ
 /tmute : ᴛɪᴍɪɴɢ ᴍᴜᴛᴇ 
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Prem_Assistant)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ʙᴏᴛѕ˼](https://t.me/Thinking_mine)**
     '''
